@@ -1,8 +1,8 @@
 # Responsive_UI
 
-Auto layout
-CoreLocation
-Alamofire
+- Auto layout
+- CoreLocation
+- Alamofire
 
 
 
